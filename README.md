@@ -2,7 +2,7 @@
 A guide to introduction to server side programming using Apache +php +mySQL
 
 
-Hello everyone, this is my guide to get started up with Web Development using PHP and Apache
+Hello everyone, this is Short list of things which you need to do before coming for IEEE 's BOOTCAMP session on Web Development using PHP and MySQL.
 
 Software required :
 
@@ -24,6 +24,12 @@ Software required :
 Now read up something about how to write HTML tags.
 
 https://www.w3schools.com/html/html_basic.asp
+
+And how Forms work in HTML 
+
+https://www.w3schools.com/html/html_forms.asp
+
+Even if could'nt read up on this ,do not worry this will be explained in a gist in the sesssion.
 
 
 
